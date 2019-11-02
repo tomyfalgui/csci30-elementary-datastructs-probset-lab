@@ -56,3 +56,5 @@ def main():
 
 
 main()
+
+# https://codeforces.com/contest/879/submission/64100464
