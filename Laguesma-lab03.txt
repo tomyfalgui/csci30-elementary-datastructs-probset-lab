@@ -1,0 +1,7 @@
+http://codeforces.com/contest/879/submission/64125722 - Ping Pong
+
+https://www.hackerrank.com/challenges/array-left-rotation/submissions/code/129382453 - Rotation
+
+https://www.hackerrank.com/challenges/balanced-brackets/submissions/code/129389520 - brackets
+
+https://www.hackerrank.com/challenges/largest-rectangle/submissions/code/129473802 - Rectangle
