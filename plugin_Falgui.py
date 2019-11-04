@@ -10,3 +10,5 @@ for letter in typed:
 		no_repeat.append(letter)
 
 print(*no_repeat, sep="")
+
+# https://codeforces.com/contest/81/submission/64203782
