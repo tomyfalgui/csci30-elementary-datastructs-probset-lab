@@ -1,0 +1,10 @@
+1. Left Rotation - https://www.hackerrank.com/challenges/array-left-rotation/submissions/code/129390591
+2. Largest Rectangle - https://www.hackerrank.com/challenges/largest-rectangle/submissions/code/129413999
+3. Balanced Brackets - https://www.hackerrank.com/challenges/balanced-brackets/submissions/code/129407104
+4. Rails - 24148381 tomy8910
+5. Table Tennis - https://codeforces.com/contest/879/submission/64100464
+6. cd and pwd Commands - https://codeforces.com/contest/158/submission/64125952
+7. Catch Overflow! - https://codeforces.com/contest/1175/submission/64193416
+8. Plug-in - https://codeforces.com/contest/81/submission/64203782
+9. Ferry Loading IV - 24156865 tomy8910
+10. Broken Keyboard - 24157937 tomy8910
